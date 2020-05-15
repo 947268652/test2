@@ -15,3 +15,5 @@ readme change 4
 readme change 5
 
 readme change 6
+
+readme change 777
